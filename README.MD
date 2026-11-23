@@ -23,6 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Quantified Self](http://quantifiedself.com/) - Official website.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
+- [AIHardwareDB](https://aihardwaredb.com/) - Independent specification and 24-month ownership cost database (hardware plus subscriptions) for consumer AI wearables, voice recorders, smart rings, and smart glasses, with an open CC BY 4.0 dataset.
 
 ## Articles & Blogs
 
